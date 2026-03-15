@@ -39,11 +39,13 @@ h1 {
 
 .meta-row .date {
   text-decoration: none;
+  text-align: left;
 }
 
 .meta-row .venue {
   color: #3B3128;
   text-decoration: none;
+  text-align: right;
 }
 
 .meta-row .venue:hover {
